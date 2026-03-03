@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Pranav 👋<br><br>💻 Software Engineer & Hardcore Coder  <br>🎓 M.Sc. Computer Engineering (IoT Systems) at Hochschule Nordhausen 🇩🇪  <br>🎓 Bachelor’s in Computer Science | Diploma in Computer Technology  <br><br>🔥 I love building real-world projects across multiple technologies  <br>💠 C++ | ☕ Java | 🌐 JavaScript | 🐍 Python  <br>⚛️ React | 📱 React Native  <br><br>🚀 Passionate about scalable systems, backend architecture & cloud solutions  <br>🔐 Focused on clean, secure & production-ready code  <br>⚙️ Always learning, building, and leveling up
+## Hi, I'm Pranav 👋<br><br>💻 Software Engineer & Hardcore Coder  <br>🎓 M.Eng. Computer Engineering (IoT Systems) at Hochschule Nordhausen 🇩🇪  <br>🎓 Bachelor’s in Computer Science | Diploma in Computer Technology  <br><br>🔥 I love building real-world projects across multiple technologies  <br>💠 C++ | ☕ Java | 🌐 JavaScript | 🐍 Python  <br>⚛️ React | 📱 React Native  <br><br>🚀 Passionate about scalable systems, backend architecture & cloud solutions  <br>🔐 Focused on clean, secure & production-ready code  <br>⚙️ Always learning, building, and leveling up
 
 
 ## 🌐 Socials:
